@@ -6,9 +6,9 @@
 [相关学习网站](https://www.cnblogs.com/fuqia/p/8996033.html)
 *******************************************
 >我们需要以下三个库来实现Pandas读写MySQL数据库：
-	• pandas
-	• sqlalchemy
-	• pymysql
+	- pandas
+	- sqlalchemy
+	- pymysql
 SQLAlchemy模块提供了creat_engine()函数用来初始化数据库连接，SQlAlchemy用一个字符串表示连接信息：***‘数据库类型+数据库驱动名称://用户名:口令@机器地址:端口号/数据库名’***其中，pandas模块提供了read_sql_query()函数实现对数据库的查询，
 
 *****************************
