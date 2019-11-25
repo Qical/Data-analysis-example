@@ -22,7 +22,7 @@ import os
 os.chdir(r'C:\Users\Administrator.DESKTOP-UNULF2U\Desktop\KNIME_file')
 
 # 创建连接数据
-engine = create_engine('mysql+pymysql://root:2212@192.168.0.200:3306/dy')
+engine = create_engine('mysql+pymysql://root:2212@192.168.0.:3306/dy')
 
 # 初始化数据库的连接，使用pymysql模块
 df = pd.read_csv('date_d.csv',sep = ',')
