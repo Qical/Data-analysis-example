@@ -4,7 +4,7 @@
 - jay_data的数据代码全部在jay_data.py中，
 - 局部的实现和展现放在jupyter中
 
-- 涉及的知识点：jieba，tolist(),sorted(),列表的降维
+- 涉及的知识点：jieba，tolist(),sorted(),列表的降维（sum()的特殊用法）
 
 ```python 
 # 涉及的模块
