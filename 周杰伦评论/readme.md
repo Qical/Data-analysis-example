@@ -2,7 +2,7 @@
 
 - 关于周杰伦的评论的分词和处理
 - jay_data的数据代码全部在jay_data.py中，
-- 局部的实现和展现放在jupyter中
+- 局部的实现和展现放在jupyter中-jay_data.ipynb
 
 - 涉及的知识点：jieba，tolist(),sorted(),列表的降维（sum()的特殊用法），以及画图的操作
 
